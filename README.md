@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java , SpigotAPI , BungeecordAPI ,JDA**
 
-- 📫 How to reach me **discord [Jessca#6631]**
+- 📫 How to reach me **[JessicaHere#6631](https://discord.com/users/665574292020264970)**
 
 
 <p align="left">
